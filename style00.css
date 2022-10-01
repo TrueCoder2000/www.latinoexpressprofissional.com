@@ -422,7 +422,7 @@ header{
 	z-index: 0;
 	display: block;
 	/*grid-area: db;*/
-	background-color: purple;
+	/*background-color: purple;*/
 }
 
 .div-text-background{
