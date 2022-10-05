@@ -3,12 +3,12 @@ let chatBot 			= document.querySelector(".div-chatbot");
 let divNetwork 			= document.querySelector(".block-network");
 let boxTextChatbot 		= document.querySelector(".box-text-chatbot");
 let btnSendChatbot 		= document.querySelector(".btn-send-chatbot");
-let btnPay1				= document.querySelector(".btnPay-1");
+/*let btnPay1				= document.querySelector(".btnPay-1");
 let btnPay2				= document.querySelector(".btnPay-2");
 let btnPay3				= document.querySelector(".btnPay-3");
 let btnPay4				= document.querySelector(".btnPay-4");
 let btnPay5				= document.querySelector(".btnPay-5");
-let btnPay6				= document.querySelector(".btnPay-6");
+let btnPay6				= document.querySelector(".btnPay-6");*/
 let divAbout            = document.querySelector(".div-about-image-text");
 let divOurServices      = document.querySelector(".div-our-services");
 let bodyChatbot         = document.querySelector(".body-chatbot");
@@ -32,7 +32,7 @@ btnSendChatbot.onclick=function(){
 	}
 }
 
-btnPay1.onclick=function(){
+/*btnPay1.onclick=function(){
     window.location.href="paypal1.html";
 }
 
@@ -59,7 +59,7 @@ btnPay5.onclick=function(){
 
 btnPay6.onclick=function(){
     window.location.href="paypal6.html";
-}
+}*/
 
 
 window.addEventListener('scroll',function(){
