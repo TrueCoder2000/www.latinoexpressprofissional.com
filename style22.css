@@ -1530,6 +1530,9 @@ header{
 		width: 100%;
 	}
 
+	.qr_code{
+		width:20%;
+	  }
 
 	.company-logo{
 		display: none;
